@@ -77,4 +77,3 @@ This project is a great way to:
 * Understand HTML structure and tags
 * Learn how to automate data collection
 
----
